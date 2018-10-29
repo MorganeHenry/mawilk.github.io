@@ -1,0 +1,311 @@
+body {
+    background-color: #93A9D1;
+    margin-bottom: 100px;
+    margin-right: -1px;
+    margin-left: -1px;
+    margin-top: -1px;
+}
+.Text{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.Home {
+    display: block;
+    width: 100%;
+}
+
+.Menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+}
+
+.Menu1{
+    float: left;
+}
+
+.active {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+}
+
+.active:hover {
+    background-color: #111;
+}
+}
+
+.active2:hover{
+    background-color: white;
+}
+
+.Title{
+    text-align: center;
+    color: #1C3775;
+}
+
+.Title2{
+    margin-left: 20px;
+    color: #1C3775;
+}
+
+.Flag{
+    float: right;
+    display: block;
+    width: 30%;
+    border-radius: 8px;
+}
+
+.Choice{
+    
+}
+
+.Welcome{
+    text-align: center;
+    color: #1C3775;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.black{
+    color: white;
+    background-color: black;
+}
+
+.white{
+    color: black;
+    background-color: white;
+}
+
+.Info{
+    color: red;
+    text-align: center;
+    text-shadow: 3px 2px black;
+}
+.FarBreton{
+    float: right;
+    display: block;
+    width: 30%;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.Galette{
+    float: right;
+    display: block;
+    width: 30%;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.Caramel{
+    float: right;
+    display: block;
+    width: 30%;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.KouignAmann{
+    float: right;
+    display: block;
+    width: 30%;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+.Pliage{
+    padding:50px;
+}
+
+.Tips{
+    color: #FCFAF1;
+    background-color: #5A5B9F;
+    padding: 5px;
+}
+
+.Ingredients{
+    background-color: #FCFAF1;
+    color: #5A5B9F;
+    max-width: 15%;
+}
+
+.OneIsland{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FCFAF1;
+    padding: 5px;
+}
+
+.Carte{
+    float: right;
+    display: block;
+    width: 20%;
+    margin-right: 20px;
+  
+}
+
+.CarteBelleIle{
+    float: right;
+    display: block;
+    width: 20%;
+    margin-right: 20px;
+    background-color: #5A5B9F;
+}
+
+.BelleIle{
+    float: right;
+    display: block;
+    width: 30%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.Groix{
+    float: left;
+    display: block;
+    width: 35%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.Houat{
+    float: right;
+    display: block;
+    width: 30%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.Hoedic{
+    float: left;
+    display: block;
+    width: 35%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.IleAuxMoines{
+    float: right;
+    display: block;
+    width: 40%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.Arz{
+    display: block;
+    width: 50%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.Marche{
+    list-style-type: none;
+    line-height: 2.5;
+}
+
+.Marchephoto{
+    float: right;
+    display: block;
+    width: 50%;
+    margin-right: 10px;
+    border-radius: 8px;   
+}
+
+.Tumulus{
+    float: right;
+    display: block;
+    width: 50%;
+    margin-right: 10px;
+    border-radius: 8px; 
+}
+
+.Menhirs{
+    float: right;
+    display: block;
+    width: 45%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.Menhirs2{
+    float: left;
+    display: block;
+    width: 35%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.CartePlage{
+    float: right;
+    display: block;
+    width: 40%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.Plage{
+    float: left;
+    display: block;
+    width: 35%;
+    margin-right: 10px;
+    border-radius: 8px; 
+}
+
+.trinite{
+    float: left;
+    display: block;
+    width: 45%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.trinite2{
+    float: right;
+    display: block;
+    width: 45%;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.trinite3{
+    float: right;
+    display: block;
+    width: 40%;
+    margin-right: 10px;
+    border-radius: 8px;
+
+}
